@@ -13,10 +13,26 @@ img {
     padding-bottom: 18em;
   }
   #aboutme{
-    background-color:#ff6600;
+    background-color:#F87531;
     color: white;
   }
   #videos{
-    background-color: #404040;
+    background-color: #696969;
+    color: white;
+  }
+  #myprofessions{
+    background-color:#F87531;
+    color: white;
+  }
+  #mystudyhabits{
+    background-color:#696969;
+    color: white;
+  }
+  #mymusics{
+    background-color:#F87531;
+    color: white;
+  }
+  #mygoal{
+    background-color: #696969;
     color: white;
   }
