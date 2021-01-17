@@ -1,0 +1,19 @@
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  #top{
+    background-color:gray;
+  }
+  #text1{
+    padding-top:18em;
+    padding-bottom: 18em;
+  }
+  #aboutme{
+    background-color:#ff6600;
+    color: white;
+  }
+  
