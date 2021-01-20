@@ -1,10 +1,11 @@
-
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
 img {
     display: block;
     max-width: 100%;
     height: auto;
   }
-
   #top{
     background-color:gray;
   }
@@ -16,12 +17,16 @@ img {
     background-color:#F87531;
     color: white;
   }
-  #videos{
+  #myvideos{
     background-color: #696969;
     color: white;
   }
   #myprofessions{
     background-color:#F87531;
+    color: white;
+  }
+  #myStudyStrategy{
+    background-color:#696969;
     color: white;
   }
   #mystudyhabits{
