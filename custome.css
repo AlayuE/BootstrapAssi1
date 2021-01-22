@@ -1,5 +1,6 @@
 body{
-  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  font-family: 'Brushstroke', Times, serif;
 }
 img {
     display: block;
@@ -25,13 +26,28 @@ img {
     background-color:#F87531;
     color: white;
   }
+  #pro{
+    background-color:#F87531;
+    color: white;
+    border: 2px solid white;
+  }
   #myStudyStrategy{
     background-color:#696969;
     color: white;
   }
+  #stra{
+    background-color:#696969;
+    color: white;
+    border: 2px solid white;
+  }
   #mystudyhabits{
     background-color:#696969;
     color: white;
+  }
+  #habi{
+    background-color:#696969;
+    color: white;
+    border: 2px solid white;
   }
   #mymusics{
     background-color:#F87531;
@@ -40,6 +56,11 @@ img {
   #mygoal{
     background-color: #696969;
     color: white;
+  }
+  #goal{
+    background-color: #696969;
+    color: white;
+    border: 2px solid white;
   }
   #contact{
     background-color:#ff6600;
