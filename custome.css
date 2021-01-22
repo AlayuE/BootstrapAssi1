@@ -8,7 +8,9 @@ img {
     height: auto;
   }
   #top{
-    background-color:gray;
+    background-image: url('image/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   #text1{
     padding-top:18em;
@@ -68,4 +70,22 @@ img {
   }
   #hobby{
     background-color: #e6e6e6;
+  }
+  .a {
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 10px;
+  }
+  #ab {
+    background-color: rgb(0, 77, 0);
+  }
+  #abc {
+    background-color: rgb(204, 0, 0);
+  }
+  #abcd {
+    background-color: rgb(0, 61, 153);
+  }
+  #abcde {
+    background-color:wheat;
+    
   }
